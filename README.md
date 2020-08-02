@@ -6,8 +6,8 @@ This app can currently be launched on linux with ffmpeg and ljsoncpp library, I 
 ### Linux
 If you want to compile the software yourself, run the following commands:
 ```
-sudo chmod ugo+rwx installVfP.sh
-./installVfP.sh
+sudo chmod ugo+rwx installVfP.swp
+./installVfP.swp
 ```
 If not just run the software with:
 ```
